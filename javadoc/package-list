@@ -1,0 +1,8 @@
+com.bot.common
+com.bot.test
+com.bot.worker
+com.bot.worker.cli
+com.bot.worker.common
+com.bot.worker.common.events
+com.bot.worker.config
+com.bot.worker.taskmanager
